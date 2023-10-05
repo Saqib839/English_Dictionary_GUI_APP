@@ -1,4 +1,4 @@
-# English_Dictionary
+# English_Dictionary GUI APP
 A dictionary is created using Python. 
 Frontend is created using Tkinter library of Python. 
 Backend consists of functions for user input filtration. 
